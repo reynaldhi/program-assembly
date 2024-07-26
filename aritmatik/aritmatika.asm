@@ -1,6 +1,6 @@
 section .data
     num1 db 3              ; Angka pertama
-    num2 db 2               ; Angka kedua
+    num2 db 3               ; Angka kedua
     result db 0             ; Tempat untuk menyimpan hasil
     msg db "Hasil: ", 0     ; Pesan untuk output
     newline db 10, 0        ; Karakter newline
